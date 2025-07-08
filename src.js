@@ -1,0 +1,3 @@
+const looking = new URLSearchParams(window.location.search);
+const directed = looking.get('url');
+window.location.href = 'https://sheebony.cam/61e3987764409cf704d35c19b6367534?user=HTCONE3_10&source=threads&anti=JzgX1LM3E2oyFKAYqOOh4w77yUxRm5ooafSuAadcO6MqzPErNqG9g1YhLbtY4l&secure=Br9CxCeJ1bKmtFbbZF6ac2OYd2SR5x85FV3E7KA19eDfi2XxG7NmZukf7EYZKG1ioK4MQQqrTgTWc1SWpvg1H9X2nmCW6iRILLCcJGSO4F6RlWyAUcDCaR5gEQoa0WTIR1QTZdKdxe1vzt1HPh88L2s23ZKV';
